@@ -1,4 +1,4 @@
-# game
+# THE BASE RPG
 
 **MOTIVATION**
 - This game was inspired by various multiplayer games I've played, specifically a niche genre of roblox games called "Difficulty RPG". I did not have time to implement all the features I wanted to, however I used the mechanic of increasing difficulty. This is barely the base for an rpg, hence the name.
@@ -16,7 +16,7 @@
   This is a very standard game where you attack the enemy with a poorly drawn wooden sword.
   With each kill, the enemy grows stronger shown by level and statmult.
   Q to DASH
-  Arrow Kets to Move
+  Arrow Keys to Move
   R1/Left Click to Attack
 
 **HOW IT WORKS**
@@ -27,4 +27,4 @@ gd script and a lot of coding
 Able to run itch.io, godot projects 
 60FPS for smooth quality
 WebGL2.0 SUPPORT
-RAM: 4 GB total system memo
+RAM: 4 GB total system memory
