@@ -22,7 +22,13 @@
 **HOW IT WORKS**
 
 gd script and a lot of coding
-  
+
+**CONTROLS**
+
+M1/LEFT CLICK TO ATTACK
+ARROW KEYS TO MOVE
+Q TO DASH
+
 **TECH REQUIREMENTS**
 Able to run itch.io, godot projects 
 60FPS for smooth quality
