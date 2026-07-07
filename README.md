@@ -9,7 +9,7 @@
 - early stages of dev
 
 **AI USAGE**
-  Little - No AI usage, only around 40% of the player movement script by ai, rest is by me with occasional syntax and logic error fixes, and help in uploading to itch.io and converting to web build
+  Little AI usage, only around 40% of the player movement script by ai, rest of the scripts is by me with occasional syntax and logic error fixes, and help in uploading to itch.io and converting to web build
   
 **DESCRIPTION**
 
