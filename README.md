@@ -24,7 +24,7 @@
 gd script and a lot of coding
 
 **CONTROLS**
-
+Press the respawn button if u are somewher every far
 M1/LEFT CLICK TO ATTACK
 ARROW KEYS TO MOVE
 Q TO DASH
